@@ -1,5 +1,4 @@
 # hello-world
-Creating a repository.
 
 Hi, Humans:
 
